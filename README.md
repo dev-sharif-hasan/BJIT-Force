@@ -70,3 +70,24 @@ Follow these steps to get Local Dining Guide up and running on your local machin
 3. **Clone the Repository**: Start by cloning this repository to your local machine:
    ```bash
    git clone https://github.com/yourusername/local-dining-guide.git
+# Usage
+
+- **Search for Restaurants:** Use the search functionality to find dining options based on your preferences.
+- **Explore Restaurant Profiles:** Click on a restaurant to view its detailed profile, including menu items and reviews.
+- **Read and Write Reviews:** Share your dining experiences by leaving reviews and ratings for restaurants.
+- **Save Favourites:** Create an account to save your favourite restaurants and receive personalized recommendations.
+- **Get Directions:** Click on the map integration to get directions to the selected restaurant.
+
+---
+
+## Contributors
+
+Thank you to the following contributors who have helped to improve this project:
+
+| Name            | Email              | Phone           |
+|-----------------|--------------------|-----------------|
+| **Sharif Hasan** | sharif.hasan@bjitacademy.com   | Phone Number 1  |
+| **Md. Rashedul Islam** |  rashedul.islam@bjitacademy.com  | Phone Number 2  |
+| **Nasrul Hasan** | nasrulhasan2010@gmail.com   | 01796655250  |
+| **Sharforaz Rahman** | sharforaz.rahman@bjitacademy.com   | Phone Number 4  |
+| **Arif Mahmud** | arif.mahmud@bjitacademy.com  | Phone Number 5  |
