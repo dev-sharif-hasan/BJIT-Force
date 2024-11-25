@@ -91,3 +91,16 @@ Thank you to the following contributors who have helped to improve this project:
 | **Nasrul Hasan** | nasrulhasan2010@gmail.com   | 01796655250  |
 | **Sharforaz Rahman** | sharforaz.rahman@bjitacademy.com   | Phone Number 4  |
 | **Arif Mahmud** | arif.mahmud@bjitacademy.com  | Phone Number 5  |
+### Contact Information
+<em>For any inquiries or support, please email us at support@localdiningguide.com or visit our
+website [http://www.localdiningguide.com](http://www.localdiningguide.com)</em>
+
+
+#### Follow us on social media: 🚀
+
+<b>Twitter:</b> @localdiningguide<br>
+<b>Facebook:</b> LocalDiningGuide<br>
+<b>Instagram:</b> @localdiningguide<br>
+
+We hope you enjoy using Local Dining Guide to discover fantastic dining options in your
+area! Bon appétit!🍽
