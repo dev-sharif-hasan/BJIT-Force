@@ -50,3 +50,23 @@ software solution strives to bridge the gap between diners and local eateries.
 - **User Accounts**: Create accounts to save favourite restaurants, track dining history, and receive personalized recommendations.
 
 [Click](https://bjitacademy.com/) here for more details.
+# Getting Started
+
+Follow these steps to get Local Dining Guide up and running on your local machine.
+
+## Prerequisites
+
+- **Web Browser**: Ensure you have a modern web browser installed to access the Local Dining Guide interface.
+- **Internet Connection**: A stable internet connection is required to fetch restaurant data and images.
+
+## Installation
+
+1. **Clone the Repository**: Start by cloning this repository to your local machine:
+   ```bash
+   git clone https://github.com/yourusername/local-dining-guide.git
+2. **Clone the Repository**: Start by cloning this repository to your local machine:
+   ```bash
+   git clone https://github.com/yourusername/local-dining-guide.git
+3. **Clone the Repository**: Start by cloning this repository to your local machine:
+   ```bash
+   git clone https://github.com/yourusername/local-dining-guide.git
